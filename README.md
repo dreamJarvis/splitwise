@@ -43,7 +43,3 @@ $ cd /splitwise/frontend/
 $ npm start
 
 ```
-
-
-
-```
