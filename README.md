@@ -35,11 +35,8 @@ To run this project, install it locally using npm:
 ```
 $ cd ../splitwise/
 $ npm install
-
 $ cd /splitwise/backend/
 $ node index.js
-
 $ cd /splitwise/frontend/
 $ npm start
-
 ```
